@@ -640,6 +640,10 @@ html {
   color: rgb(255 255 255 / var(--tw-text-opacity));
 }
 
+.underline {
+  text-decoration-line: underline;
+}
+
 @media (min-width: 768px) {
   .md\:block {
     display: block;
