@@ -2,7 +2,7 @@
 
 Building the substrate for the digital tree of knowledge.
 
-The [Arweave Protocol](https://arwiki.arweave.dev/#/en/category/the_arweave_protocol) is a permanent information storage system built upon a decentralized network of computers. It contains an endowment structure to pay for permanent storage in a sustainable way. By replicating its information in many places around the world without a centralized point of failure, the network creates a permanently reserved record of human history, knowledge and culture.
+The [Arweave Protocol](https://arwiki.arweave.dev/#/en/category/the_arweave_protocol) is a permanent information storage system built upon a decentralized network of computers. It contains an endowment structure to pay for permanent storage in a sustainable way. By replicating its information in many places around the world without a centralized point of failure, the network creates a permanently preserved record of human history, knowledge and culture.
 
 We: 
 
